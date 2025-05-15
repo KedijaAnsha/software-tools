@@ -1,2 +1,3 @@
 # software-tools
 software engineering tools and practice project.
+Wache-Market is a web-based e-commerce platform developed by third-year Software Engineering students at Wachemo University to facilitate secure and efficient buying and selling within the university community. Built using Visual Paradigm, Eclipse, JUnit, Git, and GitHub, the project follows a comprehensive SDLC, featuring role-based access for Buyers, Sellers, and Admins, intuitive product listings, and reliable transaction processing. The system ensures 99% uptime, scalability, and a user-friendly interface, with future enhancements planned for mobile integration and advanced analytics.
